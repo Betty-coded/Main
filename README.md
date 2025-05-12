@@ -1,4 +1,5 @@
-# Betty Onyango's Portfolio
+# Betty Onyango's Portfolio ![image](https://github.com/user-attachments/assets/d7537599-9097-428a-912a-f1f6f5434838)
+
   
   Linkedin
    www.linkedin.com/in/betty-suzet-8765612a5
