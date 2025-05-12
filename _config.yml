@@ -1,6 +1,7 @@
 title: Betty A. Onyango
 logo: https://github.com/Betty-coded/portfolio/blob/main/Profile.jpg?raw=true
 description: Welcome to My Portfolio
-I am an MBA student at University Canada West, with a focus on business strategy and entrepreneurship. With a strong background in client relations and project management, I aim to leverage my academic and professional experience to drive innovation and success in diverse business ventures.
+description_extended: >
+  I am an MBA student at University Canada West, with a focus on business strategy and entrepreneurship. With a strong background in client relations and project management, I aim to leverage my academic and professional experiences to deliver impactful solutions.
 show_downloads: true
 theme: jekyll-theme-minimal
