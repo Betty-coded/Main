@@ -1,5 +1,17 @@
 # Betty Onyango's Portfolio
-
+  
+  Linkedin
+   www.linkedin.com/in/betty-suzet-8765612a5
+   
+   Instagram
+   https://www.instagram.com/pinkharlem?igsh=bjBidGo1YTIxdDYy
+   
+   Gmail
+   onyango2betty@gmail.com
+   
+ Phone
+   +1(604)3411298
+   
 ## Education
 **Master's in Business Administration**, University Canada West (2023 - Present)
 
