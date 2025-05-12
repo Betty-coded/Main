@@ -26,10 +26,10 @@
 
 ### Intern - Umande Trust Organization (Jan - Apr 2021)
 ![Bio-centers](https://github.com/Betty-coded/portfolio/blob/main/Umande%20Project1.jpg?raw=true)
-![Bio-centers]()
+![Bio-centers](https://github.com/Betty-coded/portfolio/blob/main/Umande%20Project%202.jpg?raw=true)
 
- -Worked with the less previledged communities in projects on building bio-centers.
 - Helped improve online visibility and identified fundraising opportunities.
+- Worked with the less previledged communities in projects on building bio-centers.
 - Data collecion.
 - Project Management. 
 
