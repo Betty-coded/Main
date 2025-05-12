@@ -1,6 +1,13 @@
-# Betty Onyango's Portfolio ![image](https://github.com/user-attachments/assets/d7537599-9097-428a-912a-f1f6f5434838)
+# Betty Onyango's Portfolio 
+![image](https://github.com/user-attachments/assets/d7537599-9097-428a-912a-f1f6f5434838)
+about:
 
+  templete
   
+  image-width:20cm
+  
+  image-shape:round
+
   Linkedin
    www.linkedin.com/in/betty-suzet-8765612a5
    
