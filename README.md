@@ -1,4 +1,4 @@
-# Betty Onyango's Resume
+# Betty Onyango's Portfolio
 
 ## Education
 **Master's in Business Administration**, University Canada West (2023 - Present)
@@ -22,9 +22,14 @@
 
 ### Intern - Kenya National Commission on Human Rights (May - July 2015)
 - Participated in data collection and analysis.
+- Recorded case files.
 
 ### Intern - Umande Trust Organization (Jan - Apr 2021)
+![Bio-centers](Umande Project1.jpg)(Umande Project 2.jpg)
+ -Worked with the less previledged communities in projects on building bio-centers.
 - Helped improve online visibility and identified fundraising opportunities.
+- Data collecion.
+- Project Management. 
 
 ## Skills
 - Business Growth | Revenue Development | Planning & Organization | Time Management
