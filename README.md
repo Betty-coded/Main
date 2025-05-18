@@ -50,7 +50,7 @@
 
 - Helped improve online visibility and identified fundraising opportunities.
 - Worked with the less previledged communities in projects on building bio-centers.
-- Data collecion.
+- Conducted data collecion.
 - Project Management.
 - Created powerpoints for community and sponsor meetings.
 
