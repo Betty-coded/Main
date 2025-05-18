@@ -20,10 +20,10 @@
 
 ## Work Experience
 ### Caregiver – Maya’s Family (June 2024 – Jan 2025 )
-- Provide daily care and support, catering to physical, emotional, and social needs.
-- Engage clients in recreational and social activities, ensuring comfort, safety, and emotional well-being.
+- Provide daily care and support, catering to physical, emotional and social needs.
+- Engage clients in recreational and social activities, ensuring comfort, safety and emotional well-being.
 - Organize and monitor individual activity plans to promote wellness and independence.
-- Build strong, supportive relationships, demonstrating compassion, patience, and attention to detail.
+- Build strong, supportive relationships, demonstrating compassion, patience and attention to detail.
 
 ### On-Site Server – Pacific Yacht Charters (Summer 2024 – Jan 2025)
 - Delivered high-level service to high-end clients, meeting and anticipating needs with professionalism.
@@ -55,4 +55,4 @@
 - Created powerpoints for community and sponsor meetings.
 
 ## Skills
-- Business Growth | Revenue Development | Planning & Organization | Time Management
+- Business Growth | Revenue Development | Planning & Organization | Time Management | Microsoft 365 | Project Management
