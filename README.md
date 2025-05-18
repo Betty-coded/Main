@@ -19,23 +19,30 @@
 **Bachelor's in International Business Administration**, United States International University Africa (2016 - 2021)
 
 ## Work Experience
-### Caregiver – Maya’s Family (June 2024 – )
+### Caregiver – Maya’s Family (June 2024 – Jan 2025 )
 - Provide daily care and support, catering to physical, emotional, and social needs.
 - Engage clients in recreational and social activities, ensuring comfort, safety, and emotional well-being.
 - Organize and monitor individual activity plans to promote wellness and independence.
 - Build strong, supportive relationships, demonstrating compassion, patience, and attention to detail.
 
-### On-Site Server – Pacific Yacht Charters (Summer 2024 – Jan 2024)
+### On-Site Server – Pacific Yacht Charters (Summer 2024 – Jan 2025)
 - Delivered high-level service to high-end clients, meeting and anticipating needs with professionalism.
 - Assisted in creating and managing guest activity schedules, ensuring a memorable experience.
 - Developed strong organizational skills by managing logistics and inventory for activities and meals.
 - Coordinated with teams and external partners to provide smooth and enjoyable events.
+### On-Site Server – Legacy Senior Living (Jan 2025 – Jan Present)
 ### Sole Proprietor - Pink Harlem (Feb 2022 - Present)
-- Set up payment schedules, analyzed financial documents, and advocated for client needs.
+
+- Analyzed financial documents.
+- Was in charge of operation managment.
+- Set up payment schedules.
+  
 
 ### Intern - Kenya National Commission on Human Rights (May - July 2015)
 - Participated in data collection and analysis.
 - Recorded case files.
+- Conducted wealfare checks.
+- Wrote meeting minutes for breifings.
 
 ### Intern - Umande Trust Organization (Jan - Apr 2021)
 ![Bio-centers](https://github.com/Betty-coded/portfolio/blob/main/Umande%20Project1.jpg?raw=true)
@@ -44,7 +51,8 @@
 - Helped improve online visibility and identified fundraising opportunities.
 - Worked with the less previledged communities in projects on building bio-centers.
 - Data collecion.
-- Project Management. 
+- Project Management.
+- Created powerpoints for community and sponsor meetings.
 
 ## Skills
 - Business Growth | Revenue Development | Planning & Organization | Time Management
